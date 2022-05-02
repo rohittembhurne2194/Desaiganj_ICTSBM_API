@@ -292,9 +292,6 @@
     <Compile Include="Vw_GetStreetNumber.cs">
       <DependentUpon>ChildSwachhBharat.tt</DependentUpon>
     </Compile>
-    <Compile Include="Vw_MsgNotification.cs">
-      <DependentUpon>ChildSwachhBharat.tt</DependentUpon>
-    </Compile>
     <Compile Include="WardNumber.cs">
       <DependentUpon>ChildSwachhBharat.tt</DependentUpon>
     </Compile>
