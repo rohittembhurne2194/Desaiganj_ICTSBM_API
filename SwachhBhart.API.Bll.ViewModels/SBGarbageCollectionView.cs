@@ -41,6 +41,14 @@ namespace SwachhBhart.API.Bll.ViewModels
 
         public string EmpType { get; set; }
 
+        public string LevelOS { get; set; }
+        public int Dry { get; set; }
+
+        public int Wet { get; set; }
+        public int Sanitary { get; set; }
+
+        public int Domestic { get; set; }
+
     }
 
     public class SBGarbageCollectionChildView
